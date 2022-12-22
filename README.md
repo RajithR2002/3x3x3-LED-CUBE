@@ -14,7 +14,7 @@ This 3x3x3 Arduino LED cube is a stunning visual display that utilizes 9 LEDs in
 <img src="Images/Demo5.gif" width="300">
 
 # Demo 4
-<img src="Images/Demo5.gif" width="300">
+<img src="Images/Demo4.gif" width="300">
 
 # Demo 5
 <img src="Images/Demo5.gif" width="300">
