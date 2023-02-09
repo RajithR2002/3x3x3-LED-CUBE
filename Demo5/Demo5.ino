@@ -1,5 +1,4 @@
 /* 
-Auteur  : Rajith Rajathurai & Bavith Rajathurai
 Date    : 1 decembre 2022
 Titre   : TP3 - Cube de DELs 3D - Demo 5
 */
