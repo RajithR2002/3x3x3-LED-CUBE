@@ -1,8 +1,3 @@
-/* 
-Date    : 1 decembre 2022
-Titre   : TP3 - Cube de DELs 3D - Demo 5
-*/
-
 // Pins
 const int column[] = {4,8,13,2,9,12,3,10,11}; 
 const int layer[]  = {7,6,5};
