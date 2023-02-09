@@ -1,9 +1,3 @@
-/* 
-Auteur  : Rajith Rajathurai & Bavith Rajathurai
-Date    : 1 decembre 2022
-Titre   : TP3 - Cube de DELs 3D - Demo 1
-*/
-
 // Pins
 const int column[] = {4,8,13,3,9,12,2,10,11};
 int layer[] = {7,6,5};
